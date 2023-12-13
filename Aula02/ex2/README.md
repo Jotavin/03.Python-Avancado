@@ -1,0 +1,1 @@
+Todas as funções utilizadas no Exercício1 são puras, porque o resultado não muda se os Inputs forem os mesmos
